@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Olá! Sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento. No meu GitHub, você encontrará uma coleção de projetos de estudo, experimentos com diversas linguagens e frameworks, além de registros da minha evolução contínua como desenvolvedor. Sempre em busca de novos desafios e aprendizado!</p>
+<p align="left">🚀 No meu GitHub, você encontrará uma coleção de projetos de estudo, experimentos com diversas linguagens e frameworks, além de registros da minha evolução contínua como desenvolvedor. Sempre em busca de novos desafios e aprendizado!</p>
 
 ###
 
