@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📸 Instagram: Confira meu Instagram para acompanhar meus projetos, ideias criativas e um pouco do meu dia a dia como desenvolvedor. Sempre compartilho novidades e dicas de programação!<br><br>🔗 LinkedIn: Conecte-se comigo no LinkedIn para acompanhar minha trajetória profissional, trocar conhecimentos e explorar oportunidades de colaboração. Vamos construir uma rede de contatos forte e inspiradora!</p>
+<p align="left">📸 Instagram: Confira meu Instagram para acompanhar meus projetos, ideias criativas e um pouco do meu dia a dia como desenvolvedor.<br><br>🔗 LinkedIn: Conecte-se comigo no LinkedIn para acompanhar minha trajetória profissional, trocar conhecimentos e explorar oportunidades de colaboração. Vamos construir uma rede de contatos forte e inspiradora!</p>
 
 ###
 
