@@ -42,8 +42,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
-
-
-###
-
-<p align="left">📊 Stats do GitHub: Minhas estatísticas no GitHub refletem o meu progresso como desenvolvedor. Aqui, você pode acompanhar meus commits, streaks e a dedicação que invisto em cada projeto. Junte-se a mim nessa jornada e veja como estou evoluindo e aprendendo a cada dia!</p>
