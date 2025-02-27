@@ -1,44 +1,30 @@
-<h2 align="left">Oi 👋! Meu nome é Tallysom e sou estudante de Engenharia de Software e Desenvolvedor Frontend em formação, de Goiás, Brasil.</h2>
+# 👋 Sobre Mim  
+Olá! Meu nome é **Tallysom**, sou estudante de **Engenharia de Software** e **Desenvolvedor Frontend em formação**, direto de **Goiás, Brasil**.  
 
-###
+🚀 Aqui no **GitHub**, você encontrará projetos de estudo, experimentos com diversas tecnologias e registros da minha evolução como desenvolvedor. Sempre buscando aprender, crescer e enfrentar novos desafios!  
 
-<p align="left">🚀 No meu GitHub, você encontrará uma coleção de projetos de estudo, experimentos com diversas linguagens e frameworks, além de registros da minha evolução contínua como desenvolvedor. Sempre em busca de novos desafios e aprendizado!</p>
+## 🎯 Objetivos  
+- Aprimorar minhas habilidades em desenvolvimento de software.  
+- Explorar novas tecnologias e melhores práticas do mercado.  
+- Compartilhar conhecimento e colaborar com a comunidade tech.  
 
-###
+## 🔗 Conecte-se comigo  
+- 🔥 [Instagram](https://www.instagram.com/tallysom.dev/) → Acompanhe meus projetos, ideias e um pouco do meu dia a dia.  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tallysomdev/) → Vamos nos conectar para trocar experiências e crescer juntos no mundo da tecnologia.  
 
-<p align="left">🎯 Objetivos: Meu objetivo é crescer como desenvolvedor, explorando novas tecnologias e compartilhando conhecimento ao longo da jornada. Acredito no poder da colaboração e estou sempre aberto a novas ideias e feedbacks construtivos para evoluir continuamente.</p>
-
-###
-
-<p align="left">📸 Instagram: Confira meu Instagram para acompanhar meus projetos, ideias criativas e um pouco do meu dia a dia como desenvolvedor.<br><br>🔗 LinkedIn: Conecte-se comigo no LinkedIn para acompanhar minha trajetória profissional, trocar conhecimentos e explorar oportunidades de colaboração. Vamos construir uma rede de contatos forte e inspiradora!</p>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/tallysom.dev/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=B22222&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tallysomdev/#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+## 🛠️ Tecnologias & Ferramentas  
+Atualmente, estou explorando e aprimorando minhas habilidades com:  
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+</div>  
